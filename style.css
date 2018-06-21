@@ -17,14 +17,14 @@ img {
   margin: 0 auto;
 }
 
-a {
+nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: pink;
 }
 
 figcaption {
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
 }
 
